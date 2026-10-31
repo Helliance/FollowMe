@@ -5,16 +5,16 @@
     "FOLLOWME.followYourself": "Следую за самим собой; Вера в себя - важная вещь!",
     "FOLLOWME.key_hint"      : "Клавиша, чтобы начать следовать за кем-то",
    
-    "FOLLOWME.snap"          : "Прилепить к сетке",
-    "FOLLOWME.snap_hint"     : "Токены должны автоматически крепиться к сетке или сохранять длину?",
+    "FOLLOWME.snap"          : "Крепление к сетке",
+    "FOLLOWME.snap_hint"     : "Токены должны автоматически крепиться к сетке или сохранять сдвиг?",
    
     "FOLLOWME.collision"     : "Тест на коллизии",
-    "FOLLOWME.collision_hint": "Тест на столкновения со стена перед началом следования.",
+    "FOLLOWME.collision_hint": "Проверять на столкновения со стенами перед началом следования?",
 
     "FOLLOWME.orienting"     : "Вращать токены",
-    "FOLLOWME.orienting_hint": "Should tokens following another orient in their direction of movement?",
+    "FOLLOWME.orienting_hint": "Следует ли вращать токен по ходу движения?",
 
-    "FOLLOWME.combat"        : "Stop following in combat",
-    "FOLLOWME.combat_hint"   : "Should all tokens stop following each other when combat starts?"
+    "FOLLOWME.combat"        : "остановка следования в начале боя",
+    "FOLLOWME.combat_hint"   : "Останавливать ли следование всех токенов в тот момент, когда наичнается бой?"
 
 }
