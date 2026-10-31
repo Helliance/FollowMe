@@ -36,6 +36,12 @@
       "name": "deutsch",
       "path": "lang/de.json",
       "flags": {}
+    },
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/ru.json",
+      "flags": {}
     }
   ],
   "license": "LICENSE",
