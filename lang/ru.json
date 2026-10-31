@@ -1,0 +1,20 @@
+{
+    "FOLLOWME.following"     : "OK, следую в {distance}{unit} за {name}!",
+    "FOLLOWME.stopped"       : "Больше не следую за {name}!",
+    "FOLLOWME.collided"      : "Я уперся в стену; больше не следую за {name}!",
+    "FOLLOWME.followYourself": "Следую за самим собой; Вера в себя - важная вещь!",
+    "FOLLOWME.key_hint"      : "Клавиша, чтобы начать следовать за кем-то",
+   
+    "FOLLOWME.snap"          : "Прилепить к сетке",
+    "FOLLOWME.snap_hint"     : "Токены должны автоматически крепиться к сетке или сохранять длину?",
+   
+    "FOLLOWME.collision"     : "Тест на коллизии",
+    "FOLLOWME.collision_hint": "Тест на столкновения со стена перед началом следования.",
+
+    "FOLLOWME.orienting"     : "Вращать токены",
+    "FOLLOWME.orienting_hint": "Should tokens following another orient in their direction of movement?",
+
+    "FOLLOWME.combat"        : "Stop following in combat",
+    "FOLLOWME.combat_hint"   : "Should all tokens stop following each other when combat starts?"
+
+}
