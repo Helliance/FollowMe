@@ -10,11 +10,11 @@
       "flags": {}
     },
     {
-      "name": "Helliance",
+      "name": "Brunhine",
       "flags": {}
     },
     {
-      "name": "Brunhine",
+      "name": "Helliance",
       "flags": {}
     }
   ],
@@ -22,7 +22,7 @@
     "script/followme.mjs"
   ],
   "url": "https://github.com/Helliance/followme",
-  "download": "https://github.com/Helliance/followme/archive/10.0.4.zip",
+  "download": "https://github.com/Helliance/followme/archive/v14.zip",
   "manifest": "https://github.com/Helliance/followme/releases/latest/download/module.json",
   "languages": [
     {
