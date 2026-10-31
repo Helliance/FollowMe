@@ -15,6 +15,7 @@ import * as utils from "./utils.mjs"
 const MOD_NAME = "FollowMe";
 const FLAG_FOLLOWING = "following";
 const fCache = {};
+const hasProperty = foundry.utils.hasProperty;
 
 function lang(k){
   return game.i18n.localize("FOLLOWME."+k);
